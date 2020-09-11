@@ -137,7 +137,6 @@ footer>h5{
     max-width: 600px;
     padding: 16px;
     background-color:white;
-    margin-top: -45px;
     border-radius: 15px;
 }
 form > div >label{
@@ -146,6 +145,4 @@ form > div >label{
     color: burlywood;
     font-size: 22px;
 }
-.form-img-header{
-    font-family: 'Teko', sans-serif;
-}
+
