@@ -1,0 +1,151 @@
+.row{
+    width: 100%;
+    margin:10px
+}
+
+
+.card-img-top{
+    height: 350px;
+}
+.card-top{
+    margin:20px;
+    display: block;
+}
+.card-title{
+    margin-top: 250px;
+    color: navajowhite;
+    font-size: 42px;
+    
+}
+
+.card-text{
+    margin-bottom: 0;
+    font-weight: bold;
+    margin-top:-15px;
+   
+}
+.card-img-overlay{
+    margin-left: 5px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    height: 400px;
+}
+.small-text-1{
+    color: black;
+    margin-top: 5px;
+    font-size: medium;
+    letter-spacing: 0.7px;
+    
+}
+.container{
+    margin-top: 30px;
+    border:1px solid black;
+    border-radius: 15px;
+    padding:15px;
+}
+footer{
+    background: lightblue;
+    margin: 25px;
+}
+.fa {
+    font-size: 35px;
+    width: 20px;
+    padding-top: 2px;
+    text-align: center;
+    text-decoration: none;
+    border: 0.5px solid black;
+    color: white;
+    background: #3B5998;
+}
+.fa:hover{
+    opacity: 0.8;
+}
+.fa-instagram{
+    background: #cf0563;
+    color: white;
+}
+.fa-linkedin{
+    background: #007bb5;
+    color: white;
+}
+footer>h5{
+    margin-bottom: 2px;
+}
+.contact{
+    margin-bottom: 2px;
+}
+
+
+.bg-img {
+    /* The image used */
+    background-image: url("backimg.png");
+  
+    /* Control the height of the image */
+    min-height: 380px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 15px;
+  }
+  
+ 
+  /* Full-width input fields */
+    input[type=text]  {
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+    margin-left: 20px;
+    align-content: right;
+  }
+  input[type=email]{
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+    margin-left: 25px;
+
+  }
+  input[type=text]:focus, input[type=email]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Set a style for the submit button */
+  .btn {
+    background-color: #d5a76ce0;
+    color: black;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 10px;
+  }
+  
+.btn:hover {
+    opacity: 0.7;
+    background: burlywood ;
+    
+}
+.subcription-form{
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 600px;
+    padding: 16px;
+    background-color:white;
+    margin-top: -45px;
+    border-radius: 15px;
+}
+form > div >label{
+    font-size: larger;
+    padding: 12px;
+    color: burlywood;
+    font-size: 22px;
+}
+.form-img-header{
+    font-family: 'Teko', sans-serif;
+}
